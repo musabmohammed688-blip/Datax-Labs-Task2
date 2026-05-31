@@ -5,7 +5,7 @@ To create a visual report using Power BI that translates raw sales data into act
 
 Deliverables Included
 * Superstore.csv: The raw dataset used for analysis.
-* Dashboard_Report.pdf: The final visual dashboard.
+* Untitled.pdf: The final visual dashboard.
 
 Key Insights Identified
 1. Top Categories: Technology products drive the highest sum of sales across the business.
